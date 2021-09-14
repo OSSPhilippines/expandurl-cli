@@ -1,6 +1,6 @@
 # Expand URL CLI (Release Candidate)
 
-[![created by](https://img.shields.io/badge/created%20by-Waren%20Gonzaga-blue.svg?longCache=true&style=flat-square)](https://github.com/warengonzaga) [![maintained by](https://img.shields.io/badge/maintained%20by-Wareneutron%20Developers-blue.svg?longCache=true&style=flat-square)](https://wareneutron.com) [![Release](https://img.shields.io/github/release/warengonzaga/expandurl-cli.svg?style=flat-square)](https://github.com/warengonzaga/expandurl-cli/releases) [![Star](https://img.shields.io/github/stars/warengonzaga/expandurl-cli.svg?style=flat-square)](https://github.com/warengonzaga/expandurl-cli/stargazers) [![License](https://img.shields.io/github/license/warengonzaga/expandurl-cli.svg?style=flat-square)](https://github.com/warengonzaga/expandurl-cli/blob/main/LICENSE)
+[![created by](https://img.shields.io/badge/created%20by-Waren%20Gonzaga-blue.svg?longCache=true&style=flat-square)](https://github.com/warengonzaga) [![maintained by](https://img.shields.io/badge/maintained%20by-Wareneutron%20Developers-blue.svg?longCache=true&style=flat-square)](https://wareneutron.com) [![discord](https://img.shields.io/discord/659684980137656340?color=%235865F2&label=discord&logo=discord&logoColor=white&style=flat-square)](https://wrngnz.ga/discord) [![release](https://img.shields.io/github/release/warengonzaga/expandurl-cli.svg?style=flat-square)](https://github.com/warengonzaga/expandurl-cli/releases) [![star](https://img.shields.io/github/stars/warengonzaga/expandurl-cli.svg?style=flat-square)](https://github.com/warengonzaga/expandurl-cli/stargazers) [![license](https://img.shields.io/github/license/warengonzaga/expandurl-cli.svg?style=flat-square)](https://github.com/warengonzaga/expandurl-cli/blob/main/license)
 
 A simple command line tool for expanding shorten URLs.
 
@@ -48,11 +48,7 @@ If you're facing a problem in using Expand URL CLI please let us know by [creati
 
 Wanna become one of us? Join today and contribute!
 
-[![Community](https://discordapp.com/api/guilds/694612151444439081/widget.png?style=banner3)](https://wareneutron.com/discord)
-
-Looking for community of Filipino tech enthusiasts?
-
-[![Community](https://discordapp.com/api/guilds/659684980137656340/widget.png?style=banner2)](https://wrngnzga.com/discord)
+[![Community](https://discordapp.com/api/guilds/694612151444439081/widget.png?style=banner2)](https://wareneutron.com/discord) [![Community](https://discordapp.com/api/guilds/659684980137656340/widget.png?style=banner2)](https://wrngnz.ga/discord)
 
 ## 📋 Code of Conduct
 
