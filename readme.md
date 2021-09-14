@@ -1,4 +1,4 @@
-# Expand URL CLI (Release Candidate)
+# Expand URL CLI
 
 [![created by](https://img.shields.io/badge/created%20by-Waren%20Gonzaga-blue.svg?longCache=true&style=flat-square)](https://github.com/warengonzaga) [![maintained by](https://img.shields.io/badge/maintained%20by-Wareneutron%20Developers-blue.svg?longCache=true&style=flat-square)](https://wareneutron.com) [![discord](https://img.shields.io/discord/659684980137656340?color=%235865F2&label=discord&logo=discord&logoColor=white&style=flat-square)](https://wrngnz.ga/discord) [![release](https://img.shields.io/github/release/warengonzaga/expandurl-cli.svg?style=flat-square)](https://github.com/warengonzaga/expandurl-cli/releases) [![star](https://img.shields.io/github/stars/warengonzaga/expandurl-cli.svg?style=flat-square)](https://github.com/warengonzaga/expandurl-cli/stargazers) [![license](https://img.shields.io/github/license/warengonzaga/expandurl-cli.svg?style=flat-square)](https://github.com/warengonzaga/expandurl-cli/blob/main/license)
 
